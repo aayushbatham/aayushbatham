@@ -1,7 +1,3 @@
-# 💫 About Me:
-A passion for creating awesome projects and collaborating with others. Let’s build something great together!"
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/toomuchaayush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushbatham) 
 
